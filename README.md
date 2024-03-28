@@ -1,6 +1,6 @@
 # ArduinoPendulums
 
-This project was developed during Covid-19 alert quarantine. At that time I was still a BSc student and I was asked to build a homemade simple and compound pendulum to complete my "Physics 1" course labs so I could access the test. Obiviously professors didn't ask to build an Arduino automized swing period calculator but, ehi, 
+This project was developed during Covid-19 alert quarantine. At that time I was still a BSc student and I was asked to build a homemade simple and compound pendulum to complete my "Physics 1" course labs so I could access the test. Obiviously professors didn't ask to build an Arduino automized swing period calculator but, ehi, I was on the way to get an engineering degree. I. DO. THE. CODE.
 
 ## How does it work
 
