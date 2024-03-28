@@ -6,4 +6,4 @@ This project was developed during Covid-19 alert quarantine. At that time I was 
 
 It's actually pretty simple. I used a magnet as pendulum mass and a induction megnetic sensor was placed in the lowees point where it could detect any swing. Since the problem statement asked to calculate the avarage swing time period of the first 10 swings I had to implement a check when the pendulum swings were enough short to keep the sensor cosntantly triggered. 
 
-|![](/assets/git/simplePendulum.png)|
+![](/assets/simplePendulum.png)
